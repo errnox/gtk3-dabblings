@@ -1,0 +1,6 @@
+#infobutton {
+  background-color: #FF0000;
+  color: #00FF00;
+  border: 13px solid #FF0000;
+  box-shadow: 0 0 15px #00FFFF inset;
+}
